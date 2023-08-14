@@ -1,4 +1,4 @@
-# Academic-Writing-Resource-Depository
+# Academic-Writing-Resource-Repository
 This repository is used for collecting academic writing resources in the field of computer science.
 
 **【自用】收集论文写作相关的建议和图表代码等资源，主要是计算机视觉领域**
