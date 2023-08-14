@@ -18,4 +18,4 @@ This repository is used for collecting academic writing resources in the field o
   
 
 ## others
-- https://github.com/wangdongdut/PaperWriting (关于科研和写作的各方面内容，上面的链接更加聚焦某一个问题)
+- https://github.com/wangdongdut/PaperWriting (关于科研和写作的各方面内容，而不是聚焦某一个问题)
