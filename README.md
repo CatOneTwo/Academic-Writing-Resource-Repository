@@ -19,7 +19,7 @@ This repository is used for collecting academic writing resources in the field o
 
 ## Latex Related Software (相关软件)
 - https://mathpix.com/ (截图识别 LaTex 公式)
-- https://www.tablesgenerator.com/latex_tables (生成 Latex 表格)
+- https://www.tablesgenerator.com/latex_tables (在线生成 Latex 表格)
 
 ## others
 - https://github.com/wangdongdut/PaperWriting (关于科研和写作的各方面内容，而不是聚焦某一个问题)
