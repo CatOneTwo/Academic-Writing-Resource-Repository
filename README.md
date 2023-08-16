@@ -23,6 +23,6 @@ This repository is used for collecting academic writing resources in the field o
 - https://www.tablesgenerator.com/latex_tables (在线生成 Latex 表格)🌟
 
 ## others
-关于科研和写作的各方面内容，而不是聚焦某一个问题
+关于科研和写作的各方面内容，不强调计算机，也不聚焦某一个问题
 - https://github.com/wangdongdut/PaperWriting 
 - https://github.com/secdr/research-method
